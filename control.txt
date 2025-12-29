@@ -1,4 +1,4 @@
-app1:running
-app2:running
-app3:running
+app1:start
+app2:start
+app3:start
 
