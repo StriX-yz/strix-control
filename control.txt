@@ -1,4 +1,1 @@
-app1:stop
-app2:start
-app3:start
-
+0
